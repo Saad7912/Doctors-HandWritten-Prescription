@@ -99,7 +99,7 @@ Handwritten prescriptions are often difficult to read due to inconsistencies in 
 
 ---
 
-## 👨‍💻 Project Team
+## 👨‍💻 Project Tools
 
 - **Tools & Libraries:** Python, OpenCV, Tesseract, TensorFlow, HuggingFace Transformers, Pandas, NumPy, Matplotlib
 
